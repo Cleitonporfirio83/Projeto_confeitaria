@@ -12,3 +12,6 @@ require 'inicio-html.php';
         <p>Esta é a estrutura básica de uma página HTML5 em português do Brasil.</p>
       </section>
     </main>
+<?php
+require 'fim-html.php';
+?>
