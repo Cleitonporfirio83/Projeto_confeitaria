@@ -1,5 +1,7 @@
 <?php
-require 'inicio-html.php';
+require __DIR__ . 'views/inicio-html.php';
+require __DIR__ . 'views'
+
 ?>
 <body>
     <header>
@@ -13,5 +15,5 @@ require 'inicio-html.php';
       </section>
     </main>
 <?php
-require 'fim-html.php';
+require __DIR__. 'views/fim-html.php';
 ?>
